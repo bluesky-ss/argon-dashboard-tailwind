@@ -20,11 +20,6 @@ switching from our pages to the real website is very easy to be done.
 
 View [all components here](https://www.creative-tim.com/learning-lab/tailwind/html/alert/argon-dashboard/?ref=readme-ad2t).
 
-**Documentation built by Developers**
-
-Each element is well presented in a very complex documentation.
-You can read more about the <a href="https://www.creative-tim.com/learning-lab/tailwind/html/quick-start/argon-dashboard/?ref=readme-ad2t" target="_blank">documentation here</a>.
-
 **Example Pages**
 
 If you want to get inspiration or just show something directly to your clients,
@@ -94,8 +89,7 @@ Quick start options:
 1. Download and Install NodeJs from [NodeJs Official Page](https://nodejs.org/en/download/).
 2. Navigate to the root / directory and run npm install to install our local dependencies.
 
-## Documentation
-The documentation for the Argon Dashboard 2 is hosted at our [website](https://www.creative-tim.com/learning-lab/tailwind/html/quick-start/argon-dashboard/?ref=readme-ad2t).
+
 
 ### What's included
 
@@ -134,7 +128,6 @@ At present, we officially aim to support the last two versions of the following 
 ## Resources
 - [Live Preview](https://demos.creative-tim.com/argon-dashboard-tailwind/pages/dashboard.html?ref=readme-ad2t)
 - [Download Page](https://www.creative-tim.com/product/argon-dashboard-tailwind?ref=readme-ad2t)
-- Documentation is [here](https://www.creative-tim.com/learning-lab/tailwind/html/quick-start/argon-dashboard/?ref=readme-ad2t)
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-ad2t)
 - [Support](https://www.creative-tim.com/contact-us?ref=readme-ad2t)
 - Issues: [Github Issues Page](https://github.com/bluesky-ss/argon-dashboard-tailwind/issues)
