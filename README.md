@@ -1,6 +1,6 @@
 # [Argon Dashboard 2 Tailwind](http://demos.creative-tim.com/argon-dashboard-tailwind/pages/dashboard.html?ref=readme-ad2t) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/argon-dashboard-tailwind&text=Check%20Argon%20Dashboard%202%20Tailwind%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#html%20https://www.creative-tim.com/product/argon-dashboard-tailwind) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/FhCJCaHdQa)
 
-![version](https://img.shields.io/badge/version-1.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-dashboard-tailwind.svg)](https://github.com/creativetimofficial/argon-dashboard-tailwind/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-dashboard-tailwind.svg)](https://github.com/creativetimofficial/argon-dashboard-tailwind/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-dashboard-tailwind.svg)](https://github.com/bluesky-ss/argon-dashboard-tailwind/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-dashboard-tailwind.svg)](https://github.com/bluesky-ss/argon-dashboard-tailwind/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-tailwind/argon-dashboard-2-tailwind.jpg)
 
@@ -34,7 +34,7 @@ View <a href="https://demos.creative-tim.com/argon-dashboard-tailwind/pages/dash
 
 **HELPFUL LINKS**
 
-- View <a href="https://github.com/creativetimofficial/argon-dashboard-tailwind" target="_blank">Github Repository</a>
+- View <a href="https://github.com/bluesky-ss/argon-dashboard-tailwind" target="_blank">Github Repository</a>
 
 - Check <a href="https://www.creative-tim.com/faq" target="_blank">FAQ Page</a>
 
@@ -86,7 +86,7 @@ Quick start options:
 
 :rocket: You can deploy your own version of the template to Genezio with one click:
 
-[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https://github.com/creativetimofficial/argon-dashboard-tailwind&utm_source=github&utm_medium=referral&utm_campaign=github-creativetim&utm_term=deploy-project&utm_content=button-head)
+[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https://github.com/bluesky-ss/argon-dashboard-tailwind&utm_source=github&utm_medium=referral&utm_campaign=github-creativetim&utm_term=deploy-project&utm_content=button-head)
 
 
 ## Terminal Commands
@@ -137,7 +137,7 @@ At present, we officially aim to support the last two versions of the following 
 - Documentation is [here](https://www.creative-tim.com/learning-lab/tailwind/html/quick-start/argon-dashboard/?ref=readme-ad2t)
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-ad2t)
 - [Support](https://www.creative-tim.com/contact-us?ref=readme-ad2t)
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/argon-dashboard-tailwind/issues)
+- Issues: [Github Issues Page](https://github.com/bluesky-ss/argon-dashboard-tailwind/issues)
 
 ## Reporting Issues
 We use GitHub Issues as the official bug tracker for the Argon Dashboard 2 Tailwind. Here are some advices for our users that want to report an issue:
